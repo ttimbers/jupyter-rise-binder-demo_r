@@ -8,7 +8,7 @@ To view the notebook interatively click on the Binder launch button below:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ttimbers/jupyter-rise-binder-demo_r/master?filepath=jupyter-rise-binder-demo_r.ipynb)
 
 
-For a demo of these tools using Python, see here: https://github.com/ttimbers/jupyter-rise-binder-demo
+For a demo of these tools using Python, see here: https://github.com/ttimbers/jupyter-rise-binder-demo_python
 
 ## License
 All instructional material in this repository is made available under the **Creative Commons Attribution 2.5 Canada License** ([CC BY 2.5 CA](https://creativecommons.org/licenses/by/2.5/ca/)). Please give attribution to Tiffany Timbers and link to this repository.
