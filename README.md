@@ -5,6 +5,8 @@ Demonstration of using Jupyter Rise, R and MyBinder for use in teaching Data Sci
 
 To view the notebook interatively click on the Binder launch button below:
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ttimbers/jupyter-rise-binder-demo_r/master?filepath=jupyter-rise-binder-demo_r.ipynb)
+
 
 For a demo of these tools using Python, see here: https://github.com/ttimbers/jupyter-rise-binder-demo
 
