@@ -1,4 +1,0 @@
-altair==3.0.0
-pandas==0.24.2
-numpy==1.16.3
-rise==5.5.0
